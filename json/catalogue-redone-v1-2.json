@@ -1,0 +1,68 @@
+[
+  {
+    "id": "prod-local-oru3r9b",
+    "title": "Botox Capillaire Onix Nano 1KG",
+    "category": "soins_lissage",
+    "description": "Un soin enrichi en kératine, huile d'argan et protéines de soie qui nourrit en profondeur, répare et ravive la couleur. Idéal pour cheveux colorés, défrisés ou fragilisés.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-oru3r9b.jpg"
+  },
+  {
+    "id": "prod-local-rvueseh",
+    "title": "Onix Soin Botox Rouge 1KG",
+    "category": "soins_lissage",
+    "description": "Soin professionnel qui répare, nourrit et isse la fibre capillaire. Cheveux brillants, doux, sans frisottis et un résultat immédiat dès la première application.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-rvueseh.jpg"
+  },
+  {
+    "id": "prod-local-sms5s9j",
+    "title": "Botox Capillaire Onix violet 1KG",
+    "category": "soins_lissage",
+    "description": "Un botox capillaire unique qui combine pigments violets déjaunissants et actifs réparateurs. Résultat : cheveux blonds nourris, lissés, ravivés et éclatants de lumière",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-sms5s9j.jpg"
+  },
+  {
+    "id": "prod-local-6rpk4nv",
+    "title": "Botox Façon d'Etre Paris 1kg",
+    "category": "soins_lissage",
+    "description": "Un traitement profond enrichi en huile d'argan qui revitalise les cheveux secs et abîmés. Apporte hydratation intense, douceur et protection durable.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-6rpk4nv.jpg"
+  },
+  {
+    "id": "prod-local-rml0dyw",
+    "title": "Botox Marokino Honey Mya 1 Kg",
+    "category": "soins_lissage",
+    "description": "Au miel, huile d'amande, argan et collagène Lisse, hydrate et répare en profondeur Brillance intense + Souplesse immédiate « Effet longue durée Pour des cheveux nourris, disciplinés et revitalisés",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-rml0dyw.jpg"
+  },
+  {
+    "id": "prod-local-epza9ac",
+    "title": "BOTOX COLLAGÈNE FACON D'ÊTRE",
+    "category": "soins_lissage",
+    "description": "Soin reconstructeur à l'effet lissant intense Repare, hydrate et revitalise les cheveux abimés Brillance immédiate + Effet anti-frisottis longue durée Redonne souplesse et élasticité",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-epza9ac.jpg"
+  }
+]

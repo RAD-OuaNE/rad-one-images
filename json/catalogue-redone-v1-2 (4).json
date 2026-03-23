@@ -1,0 +1,200 @@
+[
+  {
+    "id": "prod-local-enk7hgo",
+    "title": "Kit Kera Lizz Biotine- Routine Complète Sans Sulfate",
+    "category": "kits_soins",
+    "description": "La gamme Acide Hyaluronique KERALIZZ est spécialement formulée pour offrir une hydratation intense et durable aux cheveux après lissage. Elle aide à restaurer la souplesse, la douceur et la brillance tout en renforçant la fibre capillaire. Idéale pour les cheveux secs, déshydratés ou ternes, elle laisse la chevelure légère, disciplinée et visiblement plus saine.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-enk7hgo.jpg"
+  },
+  {
+    "id": "prod-local-yhsytlv",
+    "title": "KIT SHAMPOING KERALIZZ ricin SANS SULFATE",
+    "category": "kits_soins",
+    "description": "La gamme Ricin KERALIZZ est conçue pour nourrir intensément, renforcer la fibre capillaire et limiter la casse après lissage. Riche en actifs fortifiants, elle aide à améliorer la résistance des cheveux tout en leur apportant brillance et vitalité.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-yhsytlv.jpg"
+  },
+  {
+    "id": "prod-local-ed67y4n",
+    "title": "BOTOX DELHI LIZZ À l'acide hyaluronique 1 kg",
+    "category": "soins_botox",
+    "description": "Brillance extrême. Anti-frisottis - Réparateur Effet prolongé 6 à 8 semaines Hydratation intense Cheveux lisses, souples et protégés.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-ed67y4n.jpg"
+  },
+  {
+    "id": "prod-local-rl0mfd7",
+    "title": "MASQUE BOTOX INDIEN MYA COSMETIC 1 KG",
+    "category": "soins_botox",
+    "description": "Soin reducteur de volume et botox lissant.\nNourrit, lisse et réduit les frisottis\nBrillance immédiate\nRenforce la fibre, stimule la croissance.\nPour cheveux doux, soyeux et disciplinés.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-rl0mfd7.jpg"
+  },
+  {
+    "id": "prod-local-owuf9uj",
+    "title": "Deby Hair — Masque Capillaire Indien BTX Lisa",
+    "category": "soins_botox",
+    "description": "Offrez à vos cheveux un soin professionnel digne des salons avec le masque capillaire BTX Lisa. Ce botox lissant réduit visiblement le volume, discipline les frisottis et apporte une brillance exceptionnelle. Sa formule enrichie en macadamia, huile d'argan et amla nourrit intensément, renforce la fibre capillaire et stimule la croissance des cheveux",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-owuf9uj.jpg"
+  },
+  {
+    "id": "prod-local-tdulouh",
+    "title": "Organic Tanin Façon d’Être",
+    "category": "soins_lissage",
+    "description": "Le Lissage Organic Tanin Façon d'Être Paris est un soin lissant à base de tanins végétaux, enrichi en biotine et collagène. Il lisse la fibre capillaire tout en respectant la structure du cheveu, apportant discipline, brillance et souplesse, sans l‘alourdir.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-tdulouh.jpg"
+  },
+  {
+    "id": "prod-local-j2tfvd0",
+    "title": "Black Panthera",
+    "category": "soins_lissage",
+    "description": "Le Lissage Black Panthera est un soin lissant professionnel puissant, conçu pour discipliner les cheveux les plus rebelles. Sa formule enrichie en actifs nourrissants aide à réduire le volume, lisser intensément la fibre capillaire et apporter une brillance miroir durable.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-j2tfvd0.jpg"
+  },
+  {
+    "id": "prod-local-ueibntd",
+    "title": "Lissage tanin Lisa Protein Deby Hair 1L",
+    "category": "soins_lissage",
+    "description": "Le Lissage French's est un soin lissant professionnel conçu pour lisser, discipliner et sublimer la fibre capillaire Sa formule aide à réduire efficacement le volume et les frisottis tout en apportant douceur, brillance et souplesse durable aux R cheveux.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-ueibntd.jpg"
+  },
+  {
+    "id": "prod-local-24ent0s",
+    "title": "Lissage Malaisien A2F Beauty",
+    "category": "soins_lissage",
+    "description": "Le Lissage Malaisien A2F Beauty est un soin lissant nouvelle génération, formulé sans formol, respectueux de la fibre capillaire et du cuir chevelu. Il lisse, discipline et nourrit intensément les cheveux tout en conservant leur souplesse et leur brillance naturelle. Grâce à sa formule enrichie en collagène, amla et biotine, ce lissage répare la fibre capillaire en profondeur, réduit les frisottis et facilite le coiffage durablement, sans alourdir le cheveu",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-24ent0s.jpg"
+  },
+  {
+    "id": "prod-local-qzm1ltv",
+    "title": "Pack Detox capillaire ROBSON PELUQUERO- CCRP TURBO vs à",
+    "category": "accessoires",
+    "description": "Puissant et ionique, ce sèche-cheveux 2400 W ‘sèche deux fois plus vite, réduit les frisottis et offre 3 températures, 2 vitesses, câble 3m et 2 buses pour Un coiffage précis",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-qzm1ltv.jpg"
+  },
+  {
+    "id": "prod-local-yjzse0l",
+    "title": "LIZZE - Extreme - Plaques en titane",
+    "category": "accessoires",
+    "description": "Températurejusqu'à480F - AffichageLED Puissant et ionique, ce sèche-cheveux 2400 W sèche deux fois plus vite, réduit les frisottis et offre 3 températures, 2 vitesses, câble 3m et 2 buses pour un coiffage précis",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-yjzse0l.jpg"
+  },
+  {
+    "id": "prod-local-53hida1",
+    "title": "M.Q PROFESSIONAL - Fer à lisser PRO480 220 W",
+    "category": "accessoires",
+    "description": "Fer à lisser titane 252 °C avec 17 niveaux de température. Chauffe ultra-rapide, plaques flottantes 32 mm, câble 360* de 3 m et technologie HSC pour un lissage précis, rapide et sans dommages",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-53hida1.jpg"
+  },
+  {
+    "id": "prod-local-vcgp3mp",
+    "title": "Kit Kera Lizz Collagéne — Routine Complète Sans Sulfate",
+    "category": "kits_soins",
+    "description": "Offrez un soin profond à vos cheveux lissés avec le Kit Kera Lizz Collagène. Sans sulfate ni paraben, ce rituel en 3 étapes (shampoing, masque, sérum) hydrate, répare et protège la fibre capillaire. Enrichi en collagène, il renforce, lisse et prolonge l'effet du lissage tout en apportant brillance et douceur à vos cheveux.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-vcgp3mp.jpg"
+  },
+  {
+    "id": "prod-local-b2gl5pq",
+    "title": "Kit Kera Lizz JASMIN",
+    "category": "kits_soins",
+    "description": "Shampoing 500ml, Sérum 200ml\nDécouvrez le KIT SHAMPOING KERA LIZZ JASMIN ENVOÛTANT SANS SULFATE, un trio de soins capillaires enrichis en JASMIN pour hydrater. fortifier et redonner brillance à vos cheveux Parfait pour les cheveux ternes et cassants, ce kit est adapté aux soins post lissage",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-b2gl5pq.jpg"
+  },
+  {
+    "id": "prod-local-n7t3j1l",
+    "title": "KIT SHAMPOING KERALIZZ BOUE DE LA MER MORTE SANS SULFATE an.",
+    "category": "kits_soins",
+    "description": "Découvrez la santé de vos cheveux avec le KIT SHAMPOING KERA LIZZ BOUE DE LA MER MORTE SANS SULFATE, Un trio de soins capillaires riches en minéraux naturels pour purifier, hydrater et revitaliser les cheveux et le cuir chevelu.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-n7t3j1l.jpg"
+  },
+  {
+    "id": "prod-local-62m4j2q",
+    "title": "Kit Kera Lizz Biotine- Routine Complète Sans Sulfate",
+    "category": "kits_soins",
+    "description": "La gamme Biotine KERALIZZ est formulée pour renforcer la fibre capillaire et améliorer la vitalité des cheveux après lissage. Elle aide à réduire la casse, apporte hydratation et brillance, et redonne force et densité aux cheveux fragilisés. La biotine contribue à des cheveux plus résistants, plus forts et visiblement plus sains.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-62m4j2q.jpg"
+  },
+  {
+    "id": "prod-local-i53kdz5",
+    "title": "Kit Kera Lizz Argan Shampoing500ml,Masque500ml,Séram200ml",
+    "category": "kits_soins",
+    "description": "La gamme Argan KERALIZZ nourrit intensément la fibre capillaire et redonne souplesse et brillance aux cheveux après lissage. Enrichie en huile d'argan, elle revitalise les cheveux secs où ternes, aide à discipliner la chevelure et apporte un toucher soyeux durable.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-i53kdz5.jpg"
+  },
+  {
+    "id": "prod-local-7tfm2bd",
+    "title": "KIT SHAMPOING KERALIZZ Amla SANS SULFATE",
+    "category": "soins_lissage",
+    "description": "La gamme Amla KERALIZZ est spécialement formulée pour purifier le cuir chevelu, renforcer les racines et aider à lutter contre la chute et les pellicules. Grâce aux propriétés de l'amla, elle apporte vitalité, équilibre et brillance aux cheveux après lissage. Elle aide à maintenir un cuir chevelu sain tout en préservant la douceur etla souplesse de la fibre capillaire.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-7tfm2bd.jpg"
+  }
+]

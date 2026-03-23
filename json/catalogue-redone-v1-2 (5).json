@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prod-local-txyqlfu",
+    "title": "Elizabeth Arden 5th avenue",
+    "category": "coffrets",
+    "description": "Eau de Parfum Spray/Vaporisateur 125 mL",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-txyqlfu.jpg"
+  },
+  {
+    "id": "prod-local-bs2n41z",
+    "title": "Paco Rabanne Phantom",
+    "category": "coffrets",
+    "description": "",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-bs2n41z.jpg"
+  },
+  {
+    "id": "prod-local-vz9ii0t",
+    "title": "FLOWERBOMB TIGER LILY VIKTOR&ROLF",
+    "category": "soins_lissage",
+    "description": "",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-vz9ii0t.jpg"
+  },
+  {
+    "id": "prod-local-pe9rqd9",
+    "title": "DOLCE s GABBANA",
+    "category": "soins_lissage",
+    "description": "POUR HOMME EAU DE TOILETTE MADE IN ITALY 100ml",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-pe9rqd9.jpg"
+  },
+  {
+    "id": "prod-local-ki5ekvc",
+    "title": "A ZZARO POUR HOMME |",
+    "category": "parfums",
+    "description": "200ml Vaporisateur Spray",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-ki5ekvc.jpg"
+  }
+]

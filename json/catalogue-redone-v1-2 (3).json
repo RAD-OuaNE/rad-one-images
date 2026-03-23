@@ -1,0 +1,68 @@
+[
+  {
+    "id": "prod-local-yjeihza",
+    "title": "TRIO FIGUE DE BARBARIE",
+    "category": "soins_lissage",
+    "description": "Hydratez, réparez et régulez votre cuir chevelu avec le Trio Figue de Barbarie Réparation & Hydratation, enrichi en huile de figue de barbarie et kératine.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-yjeihza.jpg"
+  },
+  {
+    "id": "prod-local-u8o6ix0",
+    "title": "Routine trio Ricin & Kératine",
+    "category": "soins_lissage",
+    "description": "Accélérez la pousse, réparez les longueurs abimées et redonnez de la force à vos cheveux avec le trio Ricin & Kératine",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-u8o6ix0.jpg"
+  },
+  {
+    "id": "prod-local-rcqm83h",
+    "title": "TRIO COCO NUTRITION & HYDRATATION",
+    "category": "soins_lissage",
+    "description": "Découvrez le Trio Coco Nutrition & Hydratation, enrichi en kératine et huile de coco, pour des cheveux intensément nourris, hydratés et protégés.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-rcqm83h.jpg"
+  },
+  {
+    "id": "prod-local-hh14ljk",
+    "title": "TRIO ALOE VERA PURIFICATION",
+    "category": "soins_lissage",
+    "description": "Enrichi en Aloe Vera et en kératine, ce soin hydrate, renforce et apaise le cuir chevelu pour des cheveux brillants et revitalisés.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-hh14ljk.jpg"
+  },
+  {
+    "id": "prod-local-4sbqxvl",
+    "title": "TRIO BIOTINE ET COLLAGÈNE",
+    "category": "soins_lissage",
+    "description": "Pour des cheveux plus forts, revitalisés et en pleine santé. Idéal pour les cheveux en quête de densité et de croissance",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-4sbqxvl.jpg"
+  },
+  {
+    "id": "prod-local-0womhqt",
+    "title": "TRIO CHEVEUX BOUCLÉ”",
+    "category": "soins_lissage",
+    "description": "Sublimez vos boucles avec le Trio Boucles Hydratation & Définition Rosebaie, idéal pour les cheveux bouclés, frisés et crépus. Enrichi enkératine huile d'avocat etbeurre de karité",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-0womhqt.jpg"
+  }
+]

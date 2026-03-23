@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prod-local-bv2uybj",
+    "title": "Lissage Solys Hair collagène therapy gloss 1 L",
+    "category": "soins_lissage",
+    "description": "révolutionnaire à base de collagène, acide hyaluronique et biotine, conçue pour offrir un lissage 100% parfait tout en réparant en profondeur vos cheveux et obtenir un effet miroir",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-bv2uybj.jpg"
+  },
+  {
+    "id": "prod-local-xgx2plu",
+    "title": "Lissage brésilien protéine Sorali [therapy Liss - No Frizz 1L",
+    "category": "soins_lissage",
+    "description": "le soin professionnel qui redresse, hydrate et protège les cheveux indisciplinés, pour un résultat naturel, soyeux et éclatant dès la première application",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-xgx2plu.jpg"
+  },
+  {
+    "id": "prod-local-ko97iz2",
+    "title": "Lissage Brésilien AnaPaula STEP2 1 L",
+    "category": "soins_lissage",
+    "description": "Transformez vos cheveux avec le Lissage Anti-Frizz Ana Paula Carvalho : un soin professionnel qui élimine les frisottis, lisse durablement et | préserve la santé capillaire",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-ko97iz2.jpg"
+  },
+  {
+    "id": "prod-local-bmxdlma",
+    "title": "Eternity Liss Perola Keratine Step 2",
+    "category": "soins_lissage",
+    "description": "une formule professionnelle enrichie en kératine et poudre de perle qui réduit le volume et dompte les frisottis. Il nourrit et protège les cheveux tout en les laissant lisses et éclatants jusqu'aux pointes.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-bmxdlma.jpg"
+  },
+  {
+    "id": "prod-local-9a9jrqd",
+    "title": "Gamme Lissage Oumnia",
+    "category": "soins_lissage",
+    "description": "un soin lissant et réparateur sans formol qui réduit le volume, élimine les frisottis et protège les cheveux.",
+    "price": 0,
+    "quantity": 1,
+    "showPrice": false,
+    "active": true,
+    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-9a9jrqd.jpg"
+  }
+]
