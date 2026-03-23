@@ -8,7 +8,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-yjeihza.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-yjeihza.jpg"
   },
   {
     "id": "prod-local-u8o6ix0",
@@ -19,7 +19,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-u8o6ix0.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-u8o6ix0.jpg"
   },
   {
     "id": "prod-local-rcqm83h",
@@ -30,7 +30,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-rcqm83h.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-rcqm83h.jpg"
   },
   {
     "id": "prod-local-hh14ljk",
@@ -41,7 +41,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-hh14ljk.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-hh14ljk.jpg"
   },
   {
     "id": "prod-local-4sbqxvl",
@@ -52,7 +52,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-4sbqxvl.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-4sbqxvl.jpg"
   },
   {
     "id": "prod-local-0womhqt",
@@ -63,6 +63,6 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-0womhqt.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-0womhqt.jpg"
   }
 ]

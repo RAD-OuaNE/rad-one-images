@@ -8,7 +8,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-txyqlfu.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-txyqlfu.jpg"
   },
   {
     "id": "prod-local-bs2n41z",
@@ -19,7 +19,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-bs2n41z.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-bs2n41z.jpg"
   },
   {
     "id": "prod-local-vz9ii0t",
@@ -30,7 +30,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-vz9ii0t.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-vz9ii0t.jpg"
   },
   {
     "id": "prod-local-pe9rqd9",
@@ -41,7 +41,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-pe9rqd9.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-pe9rqd9.jpg"
   },
   {
     "id": "prod-local-ki5ekvc",
@@ -52,6 +52,6 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "https://nbakekcxtyvfnejvgfli.supabase.co/storage/v1/object/public/product-images/products/prod-local-ki5ekvc.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-local-ki5ekvc.jpg"
   }
 ]

@@ -8,7 +8,7 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "img/prod-702vwb4.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-702vwb4.jpg"
   },
   {
     "id": "prod-se-cal-as-ee-ne-tre-sui-a-frie-3-pour-cheveux-doux-soyeux-et-disciplines",
@@ -30,6 +30,6 @@
     "quantity": 1,
     "showPrice": false,
     "active": true,
-    "image": "img/prod-bewsp44.jpg"
+    "image": "https://raw.githubusercontent.com/RAD-OuaNE/rad-one-images/main/products/prod-bewsp44.jpg"
   }
 ]
